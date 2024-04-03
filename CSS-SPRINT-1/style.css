@@ -1,0 +1,11 @@
+h1 {
+    font-style: italic;
+    color: red;
+}
+
+.para {
+    color: aqua;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+}
