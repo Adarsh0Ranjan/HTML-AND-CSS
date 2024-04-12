@@ -1,0 +1,25 @@
+.btn {
+    display: inline-block;
+    color: white;
+    margin-right: 1rem;
+    padding: 0.8rem 1.6rem;
+    background-color: #f63854;
+    border-radius: 4rem;
+    border: 0.1rem solid #f63854;
+    transition: transform 0.3s, color 0.3s, background-color 0.3s;
+}
+
+.btn_empty {
+    color: #f63854;
+    background-color: transparent;
+
+}
+
+.btn:hover {
+    transform: scale(1.2);
+}
+
+.btn_empty:hover {
+    color: white;
+    background-color: #f63854;
+}
